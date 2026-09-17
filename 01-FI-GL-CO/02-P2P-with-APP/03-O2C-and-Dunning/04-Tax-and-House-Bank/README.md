@@ -15,7 +15,8 @@ The finance team must ensure statutory tax compliance, withholding tax processin
 FTXP, BP, FB60, F-53, FI12
 
 ## Screenshots
-(To be added)
+[TDS CONFIGARTION.docx](https://github.com/user-attachments/files/32321215/TDS.CONFIGARTION.docx)
+
 
 ## Key Learnings
 - Tax Configuration
