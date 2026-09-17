@@ -16,7 +16,8 @@ The organization manages Asset under Construction (AuC), fixed asset capitalizat
 AS01, F-90, AO90, AIAB, AIBU, AFAB, AW01N
 
 ## Screenshots
-(To be added)
+[ASSET ACCOUNTING.docx](https://github.com/user-attachments/files/32321240/ASSET.ACCOUNTING.docx)
+
 
 ## Key Learnings
 - Asset Lifecycle Management
