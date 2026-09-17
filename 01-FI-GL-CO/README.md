@@ -1,3 +1,4 @@
+
 # Scenario 1: Global Enterprise Baseline & Universal Journal (FI-GL & CO)
 
 ## Business Background
@@ -19,8 +20,8 @@ A multinational enterprise is rolling out a new legal entity (Company Code) in S
 ## Key SAP T-Codes
 OBY6, OBC4, OKKP, KS01, KE51
 
-## Screenshots
-(To be added)
+## Screenshot
+[FICO BASIC CONFIGRATION.docx](https://github.com/user-attachments/files/32320604/FICO.BASIC.CONFIGRATION.docx)
 
 ## Key Learnings
 - Enterprise Structure Configuration
