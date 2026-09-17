@@ -17,7 +17,8 @@ The procurement department is onboarding a strategic supplier and requires Busin
 BP, F-48, F-54, MIGO, MIRO, FBZP, F110
 
 ## Screenshots
-(To be added)
+[P2P PROCESS.docx](https://github.com/user-attachments/files/32321160/P2P.PROCESS.docx)
+
 
 ## Key Learnings
 - FI-MM Integration
