@@ -1,3 +1,29 @@
-# Scenario 1: FI-GL & CO
+# Scenario 1: Global Enterprise Baseline & Universal Journal (FI-GL & CO)
 
-This scenario covers Enterprise Structure, Ledgers, Cost Centers, Profit Centers and Universal Journal (ACDOCA).
+## Business Background
+A multinational enterprise is rolling out a new legal entity (Company Code) in SAP S/4HANA requiring multi-currency financial reporting and real-time management reporting through Cost Centers and Profit Centers.
+
+## Scope
+- Enterprise Structure Configuration
+- Company & Company Code Setup
+- Fiscal Year Variant
+- Posting Period Variant
+- Field Status Variant
+- Chart of Accounts
+- Leading & Non-Leading Ledgers
+- Cost Center Accounting
+- Profit Center Accounting
+- Document Splitting
+- Universal Journal (ACDOCA)
+
+## Key SAP T-Codes
+OBY6, OBC4, OKKP, KS01, KE51
+
+## Screenshots
+(To be added)
+
+## Key Learnings
+- Enterprise Structure Configuration
+- Universal Journal (ACDOCA)
+- Cost Center & Profit Center Accounting
+- Financial Reporting Structure
