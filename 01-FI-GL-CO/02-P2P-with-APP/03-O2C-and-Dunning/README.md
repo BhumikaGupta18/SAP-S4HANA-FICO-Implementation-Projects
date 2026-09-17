@@ -16,7 +16,8 @@ The company sells products on credit and requires customer advance processing, r
 BP, VKOA, F-29, F-28, FBMP, F150
 
 ## Screenshots
-(To be added)
+[O2C PROCESS.docx](https://github.com/user-attachments/files/32321197/O2C.PROCESS.docx)
+
 
 ## Key Learnings
 - FI-SD Integration
